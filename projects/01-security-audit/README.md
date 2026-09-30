@@ -1,4 +1,4 @@
-# Project 1: Internal Security Audit & Risk Assessment (Botium Toys)
+# ### 1. [Internal Security Audit & Risk Assessment (Botium Toys)](./projects/01-security-audit/)
 
 ## Objective
 To evaluate the overall security posture of Botium Toys, assess existing IT assets against the NIST Cybersecurity Framework (CSF), and identify compliance gaps regarding PCI DSS, GDPR, and SOC controls.
